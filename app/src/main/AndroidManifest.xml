@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.zaguette.ordemdotruco">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ordemtruco_logo_removebg"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/ordemtruco_logo_removebg"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.OrdemDoTruco">
+        <activity android:name=".PopupActivity"
+            android:theme="@style/popup_custom"
+            ></activity>
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
