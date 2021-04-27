@@ -3,7 +3,6 @@
 
 Desenvolvimento de um aplicativo para auxiliar aquelas pessoas que desejam aprender a jogar Truco.
 
----
 
 <h2 align="center">Funcionamento</h2>
 Nesse aplicativo, é necessário clicar em cima da carta (a mesma que virou em cima da mesa) para ordenar da mais fraca para a mais forte.
