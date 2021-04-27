@@ -1,11 +1,11 @@
-<h1 align="center">Ordem do Truco</h1>
-<h2 align="center">Objetivo</h2>
+<h1 align="center">Truco's Order</h1>
+<h2 align="center">Objective</h2>
 
-Desenvolvimento de um aplicativo para auxiliar aquelas pessoas que desejam aprender a jogar Truco.
+Project to develop an app to help those people that want to learn how play Truco.
 
 
-<h2 align="center">Funcionamento</h2>
-Nesse aplicativo, é necessário clicar em cima da carta (a mesma que virou em cima da mesa) para ordenar da mais fraca para a mais forte.
+<h2 align="center">Functionalities</h2>
+To use this app it's necessary select the card on top of the table to reorder the cards on app. Goint from the weakest to strongest.
 <br>
 <div align="center">
   
@@ -16,7 +16,8 @@ Nesse aplicativo, é necessário clicar em cima da carta (a mesma que virou em c
 
 ---
 
-Após selecionar a carta, automaticamente será reordenado para deixar a ordem da esquerda para a direita e de cima para baixo. Mostrando também a ordem dos naipes. No exemplo foi selecionado o número 3.
+After select the card, it will automatically reorder, going from left to right and up to down. Showing also the order of suits. In the picture was selected the number 3.
+
   <br>
   <div align="center">
   
