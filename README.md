@@ -1,5 +1,4 @@
 <h1 align="center">Ordem do Truco</h1>
----
 <h2 align="center">Objetivo</h2>
 Desenvolvimento de um aplicativo para auxiliar aquelas pessoas que desejam aprender a jogar Truco.
 ---
