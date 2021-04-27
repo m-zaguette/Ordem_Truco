@@ -5,7 +5,9 @@ Project to develop an app to help those people that want to learn how play Truco
 
 
 <h2 align="center">Functionalities</h2>
+
 To use this app it's necessary select the card on top of the table to reorder the cards on app. Goint from the weakest to strongest.
+
 <br>
 <div align="center">
   
