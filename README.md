@@ -1,7 +1,7 @@
 <h1 align="center">Truco's Order</h1>
 <h2 align="center">Objective</h2>
 
-Project to develop an app to help those people that want to learn how play Truco.
+Project developed to help those people that want to learn how play Truco.
 
 
 <h2 align="center">Functionalities</h2>
